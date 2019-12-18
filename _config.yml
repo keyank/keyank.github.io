@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Karthikeyan K"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Visiting Scholar at University of Pennsylvania, Student Master's at Indian Institute of Technology, Kanpur"
-  location         : "Philadel"
+  bio              : "B.Tech-M.Tech dual degree Student at Indian Institute of Technology, Kanpur and Visiting Scholar at University of Pennsylvania, "
+  location         : "Philadelphia"
   email            :
   links:
     - label: "Email"
